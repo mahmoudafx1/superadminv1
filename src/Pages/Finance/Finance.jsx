@@ -8,7 +8,6 @@ import {
     Clock, ChevronLeft, ChevronRight,
 } from 'lucide-react';
 import {
-    getPlatformAnalytics,
     getBranchPayments,
     refundPayment,
     getFinancialSummary,
